@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - Interested in software development and systems architecture.
 - You can reach me on LinkedIn at [www.linkedin.com/in/hanna-qasim-99886921b](www.linkedin.com/in/hanna-qasim-99886921b)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c-sharp)
-![Standard ML](https://img.shields.io/badge/-StandardML-333333?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Standard ML](https://img.shields.io/badge/Standard%20ML-FF00FF?style=for-the-badge&logo=standard-ml&logoColor=white)

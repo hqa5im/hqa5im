@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- Software Engineer Intern at Snoonu.
+- Ex-Software Engineer Intern at Snoonu.
 - Computer Science Senior at Carnegie Mellon University.
 - Interested in software development and systems architecture.
 - You can reach me on LinkedIn at [www.linkedin.com/in/hanna-qasim-99886921b](www.linkedin.com/in/hanna-qasim-99886921b)
